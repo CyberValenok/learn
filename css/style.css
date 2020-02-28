@@ -1,0 +1,25 @@
+body{
+    background:#C9C0A6;
+}
+/*.container{
+    width:80%;
+    height:100%;
+    margin: 20px;
+}*/
+.header{
+    
+    background:#FFFFFF;
+}
+.main{
+    background:#FFFFFF;
+    float: left;
+    width:20%;
+}
+.content{
+    background: white;
+    margin-left:21%;
+}
+
+.footer{
+    background: white;
+}
