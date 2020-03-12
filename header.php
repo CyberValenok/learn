@@ -16,7 +16,7 @@
                     <span class="icon-bar"></span> 
                     <span class="icon-bar"></span> 
                 </button>
-                <a class="navbar-brand" href="/">My first blog</a>
+                <a class="navbar-brand" href="/#">Jopa</a>
             </div>
             <div class="collapse navbar-collapse" id="responsive-menu">
             <ul class="nav navbar-nav"> 
@@ -25,6 +25,7 @@
             <li><a href="#">Пункт 3</a> </li>
             <li><a href="#">Пункт 4</a> </li>
             </ul>
+            
             </div>
          </div> 
     </div> 
